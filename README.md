@@ -12,11 +12,11 @@ This Python script tracks the International Space Station (ISS) and sends an ema
 ## Requirements
 - Python 3
 - Required Python packages:
-  - requests
-  - smtplib
-  - datetime
-  - time
+  - `requests`
+  - `smtplib`
+  - `datetime`
+  - `time`
 
 ## Configuration
-- Modify MY_LAT and MY_LONG to set your location.
-- Modify my_email and password
+- Modify `MY_LAT` and `MY_LONG` to set your location.
+- Modify `MY_EMAIL` and `MY_PASSWORD`
